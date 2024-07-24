@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna Gulyaeva!
-- 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning the C# language.
+- 👀 I’m interested in robototechnics.
+- 🌱 I’m currently learning the Python language.
 - 💞️ I’m looking to collaborate with you to gain experience in the field of programming.
 - 📫 How to reach me:
                       8-925-682-56-62
