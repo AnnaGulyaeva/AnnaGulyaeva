@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Anna Gulyaeva!
-- 👀 I’m interested in robototechnics.
-- 🌱 I’m currently learning the Python language.
+- 👀 I’m interested in bioinformatics.
+- 🌱 I'm currently developing software for control systems in the field of robotics in Python.
 - 💞️ I’m looking to collaborate with you to gain experience in the field of programming.
 - 📫 How to reach me:
-                      8-925-682-56-62
-                      aniuta.krivenkova@yandex.ru
+                      +374-091-88-10-28
+                      aniuta.krivenkova@gmail.com
 
 <!---
 AnnaGulyaeva/AnnaGulyaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
